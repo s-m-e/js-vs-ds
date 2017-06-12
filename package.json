@@ -26,10 +26,12 @@
   },
   "dependencies": {
     "marked": "^0.3.6",
-    "node": "0.0.0",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "react-scripts": "^1.0.7",
     "standard": "^10.0.2"
+  },
+  "engines" : {
+    "node" : ">=6.0.0"
   }
 }
